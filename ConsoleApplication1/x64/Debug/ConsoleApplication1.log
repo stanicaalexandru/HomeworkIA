@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\Alejandro\Desktop\ConsoleApplication1\ConsoleApplication1\main.cpp(26,36): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  search_algorithms.cpp
+C:\Users\Alejandro\Desktop\ConsoleApplication1\ConsoleApplication1\search_algorithms.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Alejandro\Desktop\ConsoleApplication1\ConsoleApplication1\search_algorithms.cpp(34,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alejandro\Desktop\ConsoleApplication1\ConsoleApplication1\search_algorithms.cpp(79,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alejandro\Desktop\ConsoleApplication1\ConsoleApplication1\search_algorithms.cpp(128,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\Users\Alejandro\Desktop\ConsoleApplication1\x64\Debug\s.exe
